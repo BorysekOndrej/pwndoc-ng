@@ -1135,4 +1135,9 @@ export default {
         border: 2px solid #212121;
         color: white;
     }
+
+    .cvsscalculator {
+        /* TNS custom modification */
+        display: none;
+    }
 </style>
